@@ -1,0 +1,11 @@
+tool,grid_row,grid_col
+SQL,1,1
+Python,1,2
+pandas,2,1
+scikit-learn,2,2
+Power BI,3,1
+Tableau,3,2
+Excel,4,1
+SQLite,4,2
+Jupyter,5,1
+GitHub,5,2

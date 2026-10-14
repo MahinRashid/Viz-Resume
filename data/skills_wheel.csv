@@ -1,0 +1,245 @@
+skill,part,point_order,x,y,projects,projects_text
+Background,disc,0,0.0,1.0,,
+Background,disc,1,0.0872,0.9962,,
+Background,disc,2,0.1736,0.9848,,
+Background,disc,3,0.2588,0.9659,,
+Background,disc,4,0.342,0.9397,,
+Background,disc,5,0.4226,0.9063,,
+Background,disc,6,0.5,0.866,,
+Background,disc,7,0.5736,0.8192,,
+Background,disc,8,0.6428,0.766,,
+Background,disc,9,0.7071,0.7071,,
+Background,disc,10,0.766,0.6428,,
+Background,disc,11,0.8192,0.5736,,
+Background,disc,12,0.866,0.5,,
+Background,disc,13,0.9063,0.4226,,
+Background,disc,14,0.9397,0.342,,
+Background,disc,15,0.9659,0.2588,,
+Background,disc,16,0.9848,0.1736,,
+Background,disc,17,0.9962,0.0872,,
+Background,disc,18,1.0,0.0,,
+Background,disc,19,0.9962,-0.0872,,
+Background,disc,20,0.9848,-0.1736,,
+Background,disc,21,0.9659,-0.2588,,
+Background,disc,22,0.9397,-0.342,,
+Background,disc,23,0.9063,-0.4226,,
+Background,disc,24,0.866,-0.5,,
+Background,disc,25,0.8192,-0.5736,,
+Background,disc,26,0.766,-0.6428,,
+Background,disc,27,0.7071,-0.7071,,
+Background,disc,28,0.6428,-0.766,,
+Background,disc,29,0.5736,-0.8192,,
+Background,disc,30,0.5,-0.866,,
+Background,disc,31,0.4226,-0.9063,,
+Background,disc,32,0.342,-0.9397,,
+Background,disc,33,0.2588,-0.9659,,
+Background,disc,34,0.1736,-0.9848,,
+Background,disc,35,0.0872,-0.9962,,
+Background,disc,36,0.0,-1.0,,
+Background,disc,37,-0.0872,-0.9962,,
+Background,disc,38,-0.1736,-0.9848,,
+Background,disc,39,-0.2588,-0.9659,,
+Background,disc,40,-0.342,-0.9397,,
+Background,disc,41,-0.4226,-0.9063,,
+Background,disc,42,-0.5,-0.866,,
+Background,disc,43,-0.5736,-0.8192,,
+Background,disc,44,-0.6428,-0.766,,
+Background,disc,45,-0.7071,-0.7071,,
+Background,disc,46,-0.766,-0.6428,,
+Background,disc,47,-0.8192,-0.5736,,
+Background,disc,48,-0.866,-0.5,,
+Background,disc,49,-0.9063,-0.4226,,
+Background,disc,50,-0.9397,-0.342,,
+Background,disc,51,-0.9659,-0.2588,,
+Background,disc,52,-0.9848,-0.1736,,
+Background,disc,53,-0.9962,-0.0872,,
+Background,disc,54,-1.0,-0.0,,
+Background,disc,55,-0.9962,0.0872,,
+Background,disc,56,-0.9848,0.1736,,
+Background,disc,57,-0.9659,0.2588,,
+Background,disc,58,-0.9397,0.342,,
+Background,disc,59,-0.9063,0.4226,,
+Background,disc,60,-0.866,0.5,,
+Background,disc,61,-0.8192,0.5736,,
+Background,disc,62,-0.766,0.6428,,
+Background,disc,63,-0.7071,0.7071,,
+Background,disc,64,-0.6428,0.766,,
+Background,disc,65,-0.5736,0.8192,,
+Background,disc,66,-0.5,0.866,,
+Background,disc,67,-0.4226,0.9063,,
+Background,disc,68,-0.342,0.9397,,
+Background,disc,69,-0.2588,0.9659,,
+Background,disc,70,-0.1736,0.9848,,
+Background,disc,71,-0.0872,0.9962,,
+Background,disc,72,-0.0,1.0,,
+Data cleaning,wedge,0,0,0,5,5 of 5 projects
+Data cleaning,wedge,1,0.0,1.0,5,5 of 5 projects
+Data cleaning,wedge,2,0.0436,0.999,5,5 of 5 projects
+Data cleaning,wedge,3,0.0872,0.9962,5,5 of 5 projects
+Data cleaning,wedge,4,0.1305,0.9914,5,5 of 5 projects
+Data cleaning,wedge,5,0.1736,0.9848,5,5 of 5 projects
+Data cleaning,wedge,6,0.2164,0.9763,5,5 of 5 projects
+Data cleaning,wedge,7,0.2588,0.9659,5,5 of 5 projects
+Data cleaning,wedge,8,0.3007,0.9537,5,5 of 5 projects
+Data cleaning,wedge,9,0.342,0.9397,5,5 of 5 projects
+Data cleaning,wedge,10,0.3827,0.9239,5,5 of 5 projects
+Data cleaning,wedge,11,0.4226,0.9063,5,5 of 5 projects
+Data cleaning,wedge,12,0.4617,0.887,5,5 of 5 projects
+Data cleaning,wedge,13,0.5,0.866,5,5 of 5 projects
+Data cleaning,wedge,14,0.5373,0.8434,5,5 of 5 projects
+Data cleaning,wedge,15,0.5736,0.8192,5,5 of 5 projects
+Data cleaning,wedge,16,0.6088,0.7934,5,5 of 5 projects
+Data cleaning,wedge,17,0.6428,0.766,5,5 of 5 projects
+Data cleaning,label,0,0.4173,1.1464,5,5 of 5 projects
+SQL,wedge,0,0,0,4,4 of 5 projects
+SQL,wedge,1,0.5142,0.6128,4,4 of 5 projects
+SQL,wedge,2,0.5405,0.5898,4,4 of 5 projects
+SQL,wedge,3,0.5657,0.5657,4,4 of 5 projects
+SQL,wedge,4,0.5898,0.5405,4,4 of 5 projects
+SQL,wedge,5,0.6128,0.5142,4,4 of 5 projects
+SQL,wedge,6,0.6347,0.487,4,4 of 5 projects
+SQL,wedge,7,0.6553,0.4589,4,4 of 5 projects
+SQL,wedge,8,0.6747,0.4298,4,4 of 5 projects
+SQL,wedge,9,0.6928,0.4,4,4 of 5 projects
+SQL,wedge,10,0.7096,0.3694,4,4 of 5 projects
+SQL,wedge,11,0.725,0.3381,4,4 of 5 projects
+SQL,wedge,12,0.7391,0.3061,4,4 of 5 projects
+SQL,wedge,13,0.7518,0.2736,4,4 of 5 projects
+SQL,wedge,14,0.763,0.2406,4,4 of 5 projects
+SQL,wedge,15,0.7727,0.2071,4,4 of 5 projects
+SQL,wedge,16,0.781,0.1732,4,4 of 5 projects
+SQL,wedge,17,0.7878,0.1389,4,4 of 5 projects
+SQL,label,0,1.0566,0.61,4,4 of 5 projects
+Python,wedge,0,0,0,5,5 of 5 projects
+Python,wedge,1,0.9848,0.1736,5,5 of 5 projects
+Python,wedge,2,0.9914,0.1305,5,5 of 5 projects
+Python,wedge,3,0.9962,0.0872,5,5 of 5 projects
+Python,wedge,4,0.999,0.0436,5,5 of 5 projects
+Python,wedge,5,1.0,0.0,5,5 of 5 projects
+Python,wedge,6,0.999,-0.0436,5,5 of 5 projects
+Python,wedge,7,0.9962,-0.0872,5,5 of 5 projects
+Python,wedge,8,0.9914,-0.1305,5,5 of 5 projects
+Python,wedge,9,0.9848,-0.1736,5,5 of 5 projects
+Python,wedge,10,0.9763,-0.2164,5,5 of 5 projects
+Python,wedge,11,0.9659,-0.2588,5,5 of 5 projects
+Python,wedge,12,0.9537,-0.3007,5,5 of 5 projects
+Python,wedge,13,0.9397,-0.342,5,5 of 5 projects
+Python,wedge,14,0.9239,-0.3827,5,5 of 5 projects
+Python,wedge,15,0.9063,-0.4226,5,5 of 5 projects
+Python,wedge,16,0.887,-0.4617,5,5 of 5 projects
+Python,wedge,17,0.866,-0.5,5,5 of 5 projects
+Python,label,0,1.2015,-0.2119,5,5 of 5 projects
+Statistics,wedge,0,0,0,5,5 of 5 projects
+Statistics,wedge,1,0.866,-0.5,5,5 of 5 projects
+Statistics,wedge,2,0.8434,-0.5373,5,5 of 5 projects
+Statistics,wedge,3,0.8192,-0.5736,5,5 of 5 projects
+Statistics,wedge,4,0.7934,-0.6088,5,5 of 5 projects
+Statistics,wedge,5,0.766,-0.6428,5,5 of 5 projects
+Statistics,wedge,6,0.7373,-0.6756,5,5 of 5 projects
+Statistics,wedge,7,0.7071,-0.7071,5,5 of 5 projects
+Statistics,wedge,8,0.6756,-0.7373,5,5 of 5 projects
+Statistics,wedge,9,0.6428,-0.766,5,5 of 5 projects
+Statistics,wedge,10,0.6088,-0.7934,5,5 of 5 projects
+Statistics,wedge,11,0.5736,-0.8192,5,5 of 5 projects
+Statistics,wedge,12,0.5373,-0.8434,5,5 of 5 projects
+Statistics,wedge,13,0.5,-0.866,5,5 of 5 projects
+Statistics,wedge,14,0.4617,-0.887,5,5 of 5 projects
+Statistics,wedge,15,0.4226,-0.9063,5,5 of 5 projects
+Statistics,wedge,16,0.3827,-0.9239,5,5 of 5 projects
+Statistics,wedge,17,0.342,-0.9397,5,5 of 5 projects
+Statistics,label,0,0.7842,-0.9346,5,5 of 5 projects
+Machine learning,wedge,0,0,0,1,1 of 5 projects
+Machine learning,wedge,1,0.0684,-0.1879,1,1 of 5 projects
+Machine learning,wedge,2,0.0601,-0.1907,1,1 of 5 projects
+Machine learning,wedge,3,0.0518,-0.1932,1,1 of 5 projects
+Machine learning,wedge,4,0.0433,-0.1953,1,1 of 5 projects
+Machine learning,wedge,5,0.0347,-0.197,1,1 of 5 projects
+Machine learning,wedge,6,0.0261,-0.1983,1,1 of 5 projects
+Machine learning,wedge,7,0.0174,-0.1992,1,1 of 5 projects
+Machine learning,wedge,8,0.0087,-0.1998,1,1 of 5 projects
+Machine learning,wedge,9,0.0,-0.2,1,1 of 5 projects
+Machine learning,wedge,10,-0.0087,-0.1998,1,1 of 5 projects
+Machine learning,wedge,11,-0.0174,-0.1992,1,1 of 5 projects
+Machine learning,wedge,12,-0.0261,-0.1983,1,1 of 5 projects
+Machine learning,wedge,13,-0.0347,-0.197,1,1 of 5 projects
+Machine learning,wedge,14,-0.0433,-0.1953,1,1 of 5 projects
+Machine learning,wedge,15,-0.0518,-0.1932,1,1 of 5 projects
+Machine learning,wedge,16,-0.0601,-0.1907,1,1 of 5 projects
+Machine learning,wedge,17,-0.0684,-0.1879,1,1 of 5 projects
+Machine learning,label,0,0.0,-1.22,1,1 of 5 projects
+Power BI,wedge,0,0,0,2,2 of 5 projects
+Power BI,wedge,1,-0.1368,-0.3759,2,2 of 5 projects
+Power BI,wedge,2,-0.1531,-0.3696,2,2 of 5 projects
+Power BI,wedge,3,-0.169,-0.3625,2,2 of 5 projects
+Power BI,wedge,4,-0.1847,-0.3548,2,2 of 5 projects
+Power BI,wedge,5,-0.2,-0.3464,2,2 of 5 projects
+Power BI,wedge,6,-0.2149,-0.3374,2,2 of 5 projects
+Power BI,wedge,7,-0.2294,-0.3277,2,2 of 5 projects
+Power BI,wedge,8,-0.2435,-0.3173,2,2 of 5 projects
+Power BI,wedge,9,-0.2571,-0.3064,2,2 of 5 projects
+Power BI,wedge,10,-0.2702,-0.2949,2,2 of 5 projects
+Power BI,wedge,11,-0.2828,-0.2828,2,2 of 5 projects
+Power BI,wedge,12,-0.2949,-0.2702,2,2 of 5 projects
+Power BI,wedge,13,-0.3064,-0.2571,2,2 of 5 projects
+Power BI,wedge,14,-0.3173,-0.2435,2,2 of 5 projects
+Power BI,wedge,15,-0.3277,-0.2294,2,2 of 5 projects
+Power BI,wedge,16,-0.3374,-0.2149,2,2 of 5 projects
+Power BI,wedge,17,-0.3464,-0.2,2,2 of 5 projects
+Power BI,label,0,-0.7842,-0.9346,2,2 of 5 projects
+Tableau,wedge,0,0,0,3,3 of 5 projects
+Tableau,wedge,1,-0.5196,-0.3,3,3 of 5 projects
+Tableau,wedge,2,-0.5322,-0.277,3,3 of 5 projects
+Tableau,wedge,3,-0.5438,-0.2536,3,3 of 5 projects
+Tableau,wedge,4,-0.5543,-0.2296,3,3 of 5 projects
+Tableau,wedge,5,-0.5638,-0.2052,3,3 of 5 projects
+Tableau,wedge,6,-0.5722,-0.1804,3,3 of 5 projects
+Tableau,wedge,7,-0.5796,-0.1553,3,3 of 5 projects
+Tableau,wedge,8,-0.5858,-0.1299,3,3 of 5 projects
+Tableau,wedge,9,-0.5909,-0.1042,3,3 of 5 projects
+Tableau,wedge,10,-0.5949,-0.0783,3,3 of 5 projects
+Tableau,wedge,11,-0.5977,-0.0523,3,3 of 5 projects
+Tableau,wedge,12,-0.5994,-0.0262,3,3 of 5 projects
+Tableau,wedge,13,-0.6,-0.0,3,3 of 5 projects
+Tableau,wedge,14,-0.5994,0.0262,3,3 of 5 projects
+Tableau,wedge,15,-0.5977,0.0523,3,3 of 5 projects
+Tableau,wedge,16,-0.5949,0.0783,3,3 of 5 projects
+Tableau,wedge,17,-0.5909,0.1042,3,3 of 5 projects
+Tableau,label,0,-1.2015,-0.2119,3,3 of 5 projects
+Excel,wedge,0,0,0,1,1 of 5 projects
+Excel,wedge,1,-0.197,0.0347,1,1 of 5 projects
+Excel,wedge,2,-0.1953,0.0433,1,1 of 5 projects
+Excel,wedge,3,-0.1932,0.0518,1,1 of 5 projects
+Excel,wedge,4,-0.1907,0.0601,1,1 of 5 projects
+Excel,wedge,5,-0.1879,0.0684,1,1 of 5 projects
+Excel,wedge,6,-0.1848,0.0765,1,1 of 5 projects
+Excel,wedge,7,-0.1813,0.0845,1,1 of 5 projects
+Excel,wedge,8,-0.1774,0.0923,1,1 of 5 projects
+Excel,wedge,9,-0.1732,0.1,1,1 of 5 projects
+Excel,wedge,10,-0.1687,0.1075,1,1 of 5 projects
+Excel,wedge,11,-0.1638,0.1147,1,1 of 5 projects
+Excel,wedge,12,-0.1587,0.1218,1,1 of 5 projects
+Excel,wedge,13,-0.1532,0.1286,1,1 of 5 projects
+Excel,wedge,14,-0.1475,0.1351,1,1 of 5 projects
+Excel,wedge,15,-0.1414,0.1414,1,1 of 5 projects
+Excel,wedge,16,-0.1351,0.1475,1,1 of 5 projects
+Excel,wedge,17,-0.1286,0.1532,1,1 of 5 projects
+Excel,label,0,-1.0566,0.61,1,1 of 5 projects
+Business recs,wedge,0,0,0,5,5 of 5 projects
+Business recs,wedge,1,-0.6428,0.766,5,5 of 5 projects
+Business recs,wedge,2,-0.6088,0.7934,5,5 of 5 projects
+Business recs,wedge,3,-0.5736,0.8192,5,5 of 5 projects
+Business recs,wedge,4,-0.5373,0.8434,5,5 of 5 projects
+Business recs,wedge,5,-0.5,0.866,5,5 of 5 projects
+Business recs,wedge,6,-0.4617,0.887,5,5 of 5 projects
+Business recs,wedge,7,-0.4226,0.9063,5,5 of 5 projects
+Business recs,wedge,8,-0.3827,0.9239,5,5 of 5 projects
+Business recs,wedge,9,-0.342,0.9397,5,5 of 5 projects
+Business recs,wedge,10,-0.3007,0.9537,5,5 of 5 projects
+Business recs,wedge,11,-0.2588,0.9659,5,5 of 5 projects
+Business recs,wedge,12,-0.2164,0.9763,5,5 of 5 projects
+Business recs,wedge,13,-0.1736,0.9848,5,5 of 5 projects
+Business recs,wedge,14,-0.1305,0.9914,5,5 of 5 projects
+Business recs,wedge,15,-0.0872,0.9962,5,5 of 5 projects
+Business recs,wedge,16,-0.0436,0.999,5,5 of 5 projects
+Business recs,wedge,17,-0.0,1.0,5,5 of 5 projects
+Business recs,label,0,-0.4173,1.1464,5,5 of 5 projects

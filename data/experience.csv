@@ -1,0 +1,12 @@
+role,organisation,start_date,end_date,role_type,lane,location,label_org,label_role,label_years,lane_order
+BBA in Accounting,Leading University,2017-01-01,2021-02-28,Education,Education,"Sylhet, Bangladesh",Leading University,"BBA, Accounting",2017–2021,1
+MBA in Business Analytics,University Canada West,2022-04-01,2023-12-31,Education,Education,"Vancouver, Canada","UCW, Vancouver","MBA, Analytics",2022–2023,1
+Trainee Assistant Manager,Ibrahim and Brothers,2021-08-01,2022-02-28,Management,Operations,"Sylhet, Bangladesh",Ibrahim & Bros.,Asst. Manager,2021–2022,2
+Assistant Manager,Ibrahim and Brothers,2022-03-01,2022-09-30,Management,Operations,Bangladesh,,,,2
+Customer Experience Associate / Cashier,Walmart Canada,2022-10-01,2023-01-31,Customer service,Operations,Canada,Walmart Canada,Customer service,2022–2024,2
+Self Checkout Attendant,Walmart Canada,2022-12-01,2024-01-31,Customer service,Operations,"Burnaby, Canada",,,,2
+Customer Service Desk Associate,Walmart Canada,2024-01-01,2024-04-30,Customer service,Operations,"Vancouver, Canada",,,,2
+Customer Service Manager,Walmart Canada,2024-05-01,2026-01-31,Management,Operations,Canada,Walmart Canada,CS Manager,2024–2026,2
+OMNI Department Manager,Walmart Canada,2026-02-01,,Management,Operations,"Vancouver, Canada",Walmart Canada,OMNI Dept Mgr,2026–now,2
+Business Analyst,Amader Cart,2025-05-01,2026-08-31,Analytics,Analytics,Bangladesh,Amader Cart,Business Analyst,2025–2026,3
+Business Analyst II,Amader Cart,2026-09-01,,Analytics,Analytics,"Sylhet, Bangladesh",Amader Cart,Business Analyst II,2026–now,3
