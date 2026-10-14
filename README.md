@@ -1,7 +1,9 @@
 # Viz Résumé: Nishad Rashid Mahi
 
 **Tool:** Tableau Public · Python (data preparation)
-**Live résumé:** *coming soon on [Tableau Public](https://public.tableau.com/app/profile/nishad.rashid.mahi)*
+**Live résumé:** [open it on Tableau Public](https://public.tableau.com/app/profile/nishad.rashid.mahi/viz/NishadsVizResume/Dashboard2)
+
+![Viz résumé](screenshot.png)
 
 A one-page interactive résumé built in Tableau. It shows my experience, education, skills and portfolio, and every skill on it is backed by a project you can open.
 
@@ -58,6 +60,7 @@ python3 python/build_wheel.py
 ```
 ├── data/              tables loaded into Tableau
 ├── assets/            background image, portfolio cards and link images used on the dashboard
+├── screenshot.png     the published dashboard
 ├── python/
 │   └── build_wheel.py turns skills_by_project.csv into the wheel's shapes
 └── README.md
